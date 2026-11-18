@@ -1,0 +1,5 @@
+# GRID RECOVERY EA - LICENSE LIST
+# Format: ROLE ; NAME ; MACHINE-ID ; EXPIRY (optional)
+# To stop a user: delete his line or put # in front of it.
+
+ADMIN ; Majedul ; A1B2-C3D4-E5F6-0789 ;
