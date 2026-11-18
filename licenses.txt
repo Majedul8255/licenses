@@ -2,4 +2,4 @@
 # Format: ROLE ; NAME ; MACHINE-ID ; EXPIRY (optional)
 # To stop a user: delete his line or put # in front of it.
 
-ADMIN ; Majedul ; A1B2-C3D4-E5F6-0789 ;
+ADMIN ; Majedul ; 28AF-D7D1-BB13-53CD ;
